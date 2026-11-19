@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+backend/target/
+gateway/uploads/
+.idea/
+.vscode/
+*.log
